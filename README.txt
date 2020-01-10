@@ -1,0 +1,1 @@
+In this project we try to implement different audio noise reduction algorithms and compare them in different environments.
